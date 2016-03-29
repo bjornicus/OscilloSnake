@@ -5,8 +5,6 @@ Project("{AFEAD82A-8AC1-E997-E103-EBDDB5653AC3}") = "OscilloSnake", "Assembly-CS
 EndProject
 Project("{AFEAD82A-8AC1-E997-E103-EBDDB5653AC3}") = "OscilloSnake", "Assembly-CSharp-Editor.csproj", "{35BF1972-F212-2E2B-AD43-F2197374C006}"
 EndProject
-Project("{AFEAD82A-8AC1-E997-E103-EBDDB5653AC3}") = "OscilloSnake", "Assembly-UnityScript.unityproj", "{CF66D730-F06C-6944-AF08-D46D405E4C7E}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,10 +19,6 @@ Global
 		{35BF1972-F212-2E2B-AD43-F2197374C006}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35BF1972-F212-2E2B-AD43-F2197374C006}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35BF1972-F212-2E2B-AD43-F2197374C006}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CF66D730-F06C-6944-AF08-D46D405E4C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CF66D730-F06C-6944-AF08-D46D405E4C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CF66D730-F06C-6944-AF08-D46D405E4C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CF66D730-F06C-6944-AF08-D46D405E4C7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -47,5 +41,4 @@ Global
 		$3.inheritsScope = text/plain
 		$3.scope = text/plain
 	EndGlobalSection
-
 EndGlobal
